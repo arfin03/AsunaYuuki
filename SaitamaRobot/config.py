@@ -33,6 +33,7 @@ class Config(object):
     URL = None
     SPAMWATCH_API = "0WZ1Dpb0_qjDjq0Z4NqAdF7H1RGLI1HhUVtHQ47VU6siLCeTePPIIVMDi6amvx_P"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
+    REDIS_URL = "redis://default:OAIZCKurOwxjP0NhGJQ8d35nxYoTrrVt@redis-12617.c98.us-east-1-4.ec2.cloud.redislabs.com:12617"
 
     #OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
