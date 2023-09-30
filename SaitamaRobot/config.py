@@ -17,12 +17,12 @@ class Config(object):
 
     API_ID = 5699301  # integer value, dont use ""
     API_HASH = "5efb0cd88effcd5d1abc98b10bccc12f"
-    TOKEN = "1886602051:AAFnCrpUPpvBCKggPEzpMpb077xy197ZvIM"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1249591948  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Yoga_CIC"
-    SUPPORT_CHAT = 'YuukiAsunaSupportChat'  #Your own group for support, do not add the @
-    JOIN_LOGGER = -1001517345448  #Prints any new group the bot is added to, prints just the name and ID.
-    EVENT_LOGS = -1001368313136  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    TOKEN = "6484534684:AAFhc381-zhXgXLXG9eNf37ED4DDafZc1yc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1948147616  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Dhilnihnge"
+    SUPPORT_CHAT = 'SiArab_Support'  #Your own group for support, do not add the @
+    JOIN_LOGGER = -1001795374467  #Prints any new group the bot is added to, prints just the name and ID.
+    EVENT_LOGS = -1001795374467  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     #RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'mongodb+srv://asuna:asuna123@cluster0.9zv2k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'  # needed for any database modules
